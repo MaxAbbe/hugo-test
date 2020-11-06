@@ -1,0 +1,7 @@
+contactformaction: 'post-action'
+
+address:
+- line: 'Knorrstraße 9'
+- line: '24106 Kiel'
+
+email: 'maximilian.abbe@gmail.com'
